@@ -1,0 +1,16 @@
+body{
+    background-color: #414141;
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 9px;
+    border-color: white;
+}
+button:hover{
+    background-color: grey;
+    color: aliceblue;
+}

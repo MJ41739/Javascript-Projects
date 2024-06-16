@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+    text-align: center;
+    align-items: center;
+    /* padding-top: 400px; */
+    font-size: xx-large;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+.color{
+    text-align: center;
+    align-items: center ;
+    padding-top: 20%;
+    padding-left: 40%;
+}
+table{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-spacing: 0px;
+    width: 500px;
+    height: auto;
+    
+}
+td{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
